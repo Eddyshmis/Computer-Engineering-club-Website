@@ -11,8 +11,8 @@ const home = () => {
   return (
     <>
       <NavigationBar />
-      <div className="block-section">
-        <Card style={{ width: "110rem",height:"12rem"}} className="text-bg-dark shadow">
+      <div className="block-section container-fluid">
+        <Card style={{height:"12rem"}} className="text-bg-dark shadow container-fluid">
           <Card.Body>
             <Card.Title className="fs-1">
               The Computer Engineering Club
