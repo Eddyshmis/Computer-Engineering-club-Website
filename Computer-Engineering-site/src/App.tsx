@@ -1,7 +1,7 @@
 import { HashRouter as Router, Routes, Route } from 'react-router-dom'
 import Home from "./Pages/Home/home"
 import WebDev from './Pages/WebDev/WebDev'
-import GameDev from './Pages/GameDev/GameDev'
+import GameDev from './Pages/GameDev/GameDev-sidebar'
 import ComputerEngineering from './Pages/ComputerEngineering/ComputerEngineering'
 
 import './App.css'

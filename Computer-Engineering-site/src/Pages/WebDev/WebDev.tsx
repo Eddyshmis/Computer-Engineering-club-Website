@@ -1,6 +1,6 @@
 import { Card, Container } from 'react-bootstrap'
 import NavigationBar from '../../components/NavigationBar'
-import Sidebar from '../../components/Sidebar/sidebar'
+import Sidebar from '../../components/Side_bar/side_bar'
 import "./WebDev.css"
 
 const WebDev = () => {

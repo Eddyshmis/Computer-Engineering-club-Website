@@ -1,0 +1,9 @@
+html{
+    scroll-behavior: smooth;
+}
+.list_item{
+    background-color: rgb(48, 48, 48);
+}
+.list_item a{
+    text-decoration: none;
+}
